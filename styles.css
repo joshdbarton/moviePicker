@@ -4,6 +4,7 @@ section {
     margin: 1px;
     padding: 3px;
     width: 30%;
+    min-width: 121px;
     height: 200px;
 }
 
