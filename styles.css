@@ -1,0 +1,16 @@
+section {
+    border: dotted 1px black;
+    float: left;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.old-movie {
+    background-color: lightblue
+}
+
+.new-movie {
+    background-color: lightcoral
+}
