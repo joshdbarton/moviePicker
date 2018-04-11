@@ -1,6 +1,10 @@
 section {
-    border: dotted 1px black;
+    border-radius: 5px;
     float: left;
+    margin: 1px;
+    padding: 3px;
+    width: 30%;
+    height: 200px;
 }
 
 .clearfix {
